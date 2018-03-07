@@ -15,7 +15,7 @@ Watching the Tampa contests is a nostalgic experience for a lot of folks because
 
 I think the online skate community might be less irked with Jagger Eaton's win if the Tampa Pro series was more forthcoming with the way they judge skating.
 
-Winning Tampa Pro gives you a "Golden Ticket"<a href="#sls" id="sls1"><sup>1</sup></a> to the SLS Nike SB Super Crown World Championship. Last year it was Dave Bachinsky who "secured the North American slot"<a href="#slot" id="slot1"><sup>2</sup></a> in the SLS Pro Open by doing well in Tampa. This year, Jagger "earned the Monster Energy Pro Open Pass"<a href="#mon" id="mon1"><sup>3</sup></a> to the semi-finals of the 2018 SLS Pro Open, "one step closer to skating his way into SLS."<sup>1</sup>
+Winning Tampa Pro gives you a "Golden Ticket"<a href="#sls" id="sls1"><sup>1</sup></a> to the SLS Nike SB Super Crown World Championship. Last year it was Dave Bachinsky who "secured the North American slot"<a href="#slot" id="slot1"><sup>2</sup></a> in the SLS Pro Open by doing well in Tampa. This year, Jagger "earned the Monster Energy Pro Open Pass"<a href="#mon" id="mon1"><sup>3</sup></a> to the semi-finals of the 2018 SLS Pro Open, "one step closer to skating his way into SLS."
 
 The Street League website claims that Tampa Pro is a "far cry from an arena contest...Tampa is old school," that its winners and losers are up to debate, and that "that's what makes Tampa rad...it's all about the moment. Not a trick for trick breakdown..." Tampa is judged differently than SLS. It is a best of three runs format, rather than then real-time ISXTM Instant Scoring<a href="#isx" id="isx1"><sup>4</sup></a> system that is intended to be precise and objective. 
 
@@ -57,6 +57,8 @@ Red Bull probably makes him wear a beanie. Dude looks young and awkward. He prob
 
 <br>
 <hr>
+Citations
+<br>
 <a href="#sls1" id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
 <br>
 <a href="#slot1" id="slot"><sup>2</sup></a>: http://streetleague.com/2017/12/08/2017-sls-season-recap/
@@ -67,4 +69,4 @@ Red Bull probably makes him wear a beanie. Dude looks young and awkward. He prob
 <br>
 <a href="#dec1" id="dec"><sup>5</sup></a>: https://www.youtube.com/watch?v=6A2FgAnN_QM
 <br>
-<a href="#pro1" id="pro"><sup>6</sup></a>: The names of these things are starting to sound like 
+<a href="#pro1" id="pro"><sup>6</sup></a>: The names of these things are starting to sound like a bit, like Talladega Nights  <a>https://www.youtube.com/watch?v=MXry-cXybG0</a>
