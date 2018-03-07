@@ -53,20 +53,24 @@ Jagger did three reverts and one skip down the crowded quarter. I think I, and t
 
 ### **The beanie (advanced hypocrisy)**
 
-If I learned anything from Life of Ryan, it's that Red Bull demands that you rep some kind of branded head gear. If you Google Jagger Eaton, he looks young and awkward. But most of all, he's *young*, and if rolling the beanie up over your ears is a cool trend among younger skaters, then I don't blame him for participating in that trend, seeing as he's gotta have some kind Red Bull shit on his head. Your seriously lame if you hate on the way he wears his beanie. If you do, I think you are participating in the broader trend of hypocrisy in skateboarding, because you probably got vibed on for wearing baggie clothes, or skinny jeans, or for cuffing your pants, or whatever. It's a hat.
+If I learned anything from Life of Ryan<a href="#lor" id="lor1"><sup>7</sup></a>, it's that Red Bull demands that you rep some kind of branded head gear. If you Google Jagger Eaton, he looks young and awkward. But most of all, he's *young*, and if rolling the beanie up over your ears is a cool trend among younger skaters, then I don't blame him for participating in that trend, seeing as he's gotta have some kind Red Bull shit on his head. Your seriously lame if you hate on the way he wears his beanie. If you do, I think you are participating in the broader trend of hypocrisy in skateboarding, because you probably got vibed on for wearing baggie clothes, or skinny jeans, or for cuffing your pants, or whatever. It's a hat. 
+
+That said, it does look goofy to me.
 
 <br>
 <hr>
 Citations
 <br>
-<a href="#sls1" id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
+<a href="#sls1" id="sls"><sup>1</sup></a>: <a>http://streetleague.com/faq/</a>
 <br>
-<a href="#slot1" id="slot"><sup>2</sup></a>: http://streetleague.com/2017/12/08/2017-sls-season-recap/
+<a href="#slot1" id="slot"><sup>2</sup></a>: <a>http://streetleague.com/2017/12/08/2017-sls-season-recap/</a>
 <br>
-<a href="#mon1" id="mon"><sup>3</sup></a>: http://streetleague.com/2018/03/06/jagger-eaton-wins-tampa-pro/
+<a href="#mon1" id="mon"><sup>3</sup></a>: <a>http://streetleague.com/2018/03/06/jagger-eaton-wins-tampa-pro/</a>
 <br>
-<a href="#isx1" id="isx"><sup>4</sup></a>: https://www.isxscoring.com/
+<a href="#isx1" id="isx"><sup>4</sup></a>: <a>https://www.isxscoring.com/</a>
 <br>
-<a href="#dec1" id="dec"><sup>5</sup></a>: https://www.youtube.com/watch?v=6A2FgAnN_QM
+<a href="#dec1" id="dec"><sup>5</sup></a>: <a>https://www.youtube.com/watch?v=6A2FgAnN_QM</a>
 <br>
 <a href="#pro1" id="pro"><sup>6</sup></a>: The names of these things are starting to sound like a bit, like Talladega Nights  <a>https://www.youtube.com/watch?v=MXry-cXybG0</a>
+<br>
+<a href="lor1" id="lor"><sup>7</sup></a>: <a>https://en.wikipedia.org/wiki/Life_of_Ryan</a>
