@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jagger wins. What do Tampa, style mean?
+title: Why tf should we defend Tampa, style?
 ---
 
 Jagger Eaton run at Tampa Am
