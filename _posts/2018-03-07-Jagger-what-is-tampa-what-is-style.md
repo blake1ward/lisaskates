@@ -45,7 +45,7 @@ In an attempt to defend Jagger's win, here are the tricks from his winning run. 
 10. Frontside flip quarter
 11. Nollie nose slide
 
-On paper, that's a seriously impressive list. I guess one way I define style is board control, and I think that list demonstrates an advanced level of board control. I also think that the environment and occasion work to define style as well, so the contest format necessitates tech skating, as it is proven to win. The whole point of a contest is to win, even Tampa. I believe you are deceived if you think the point of the contest was to look cool. The contestant's sponsorships want them to *win*. And your tuning into a heavily sponsored event.
+On paper, that's a seriously impressive list. I guess one way I define style is board control, and I think that list demonstrates an advanced level of board control. I also think that the environment and occasion work to define style as well, so the contest format necessitates tech skating, as it is proven to win. The whole point of a contest is to win, even Tampa. I believe you are deceived if you think the point of the contest was to look cool. The contestant's sponsorships want them to *win*. And you're tuning into a heavily sponsored event.
 
 Also, the last time I saw a switch back tail in a long line, Miles Silvas was in an Adidas ad. IIRC, it was the trick that a lot of folks used to defend his line that had similar characteristics to Jagger's (hopping off the board a few times).
 
