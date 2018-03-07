@@ -73,4 +73,4 @@ Citations
 <br>
 <a href="#pro1" id="pro"><sup>6</sup></a>: The names of these things are starting to sound like a bit, like Talladega Nights  <a>https://www.youtube.com/watch?v=MXry-cXybG0</a>
 <br>
-<a href="lor1" id="lor"><sup>7</sup></a>: <a>https://en.wikipedia.org/wiki/Life_of_Ryan</a>
+<a href="#lor1" id="lor"><sup>7</sup></a>: <a>https://en.wikipedia.org/wiki/Life_of_Ryan</a>
