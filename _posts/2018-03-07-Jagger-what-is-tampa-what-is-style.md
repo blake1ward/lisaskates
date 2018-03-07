@@ -19,9 +19,9 @@ Winning Tampa Pro gives you a "Golden Ticket"<a href="#sls" id="sls1"><sup>1</su
 
 The Street League website claims that Tampa Pro is a "far cry from an arena contest...Tampa is old school," that its winners and losers are up to debate, and that "that's what makes Tampa rad...it's all about the moment. Not a trick for trick breakdown..." Tampa is judged differently than SLS. It is a best of three runs format, rather than then real-time ISXTM Instant Scoring<a href="#isx" id="isx1"><sup>4</sup></a> system that is intended to be precise and objective. 
 
-Why do I feel that this is a half-truth? I think that Jagger Eaton could have won this year based on the merit of his skating alone, but the influence of SLS makes me think that Tampa Pro is more of a pipeline that now services as a pipeline to the the broader brand of Street League contests.
+Why do I feel that this is a half-truth? I think that Jagger Eaton could have won this year based on the merit of his skating alone, but the influence of SLS makes me think that Tampa Pro now services as a pipeline to the the broader brand of Street League contests.
 
-The "old school" thing may have been the case in the past, when skaters like Mike Vallely, Kerry Getz, Andrew Reynolds, etc. won, but if you take a look at the last several years, every winner with the exception of maybe one has the potential to thrive in an ISXTM scoring system: Luan, Nyjah, Shane, T Pud, P Rod, and now Jagger -- and I'm excluding Louie Lopez in 2017 because I don't think he should do these contests (his street parts are a gift). Without a doubt, all of those guys deserve to win a contest because of their ability to skate. But if Tampa is all about getting stoked on a run, even if there are bails, then Decenzo's run with the wallie three<a href="#dec" id="dec1"><sup>5</sup></a> should have won.
+The "old school" thing may have been the case in the past, when skaters like Mike Vallely, Kerry Getz, Andrew Reynolds, etc. won, but if you take a look at the last several years, every winner with the exception of maybe one has the potential to thrive in an ISXTM scoring system: Luan, Nyjah, Shane, T Pud, P Rod, and now Jagger -- and I'm excluding Louie Lopez in 2017 because I don't think he should do these contests (his street parts are a gift). Without a doubt, all of those guys deserve to win a contest because of their ability to skate. But if Tampa is all about getting stoked on a run, even if there are bails, then Decenzo's run with the wallie three<a href="#dec" id="dec1"><sup>5</sup></a> should have won. SLS is going to need fresh faces and new winners at some point. It makes sense that the skater who wins a Monster Energy Pro Open Pass<a href="pro" id="#pro1"><sup>6</sup></a> is going to score (objectively) good marks in an ISXTM system rather than have (subjectively) good style.
 
 
 ### **Defining style**
@@ -39,6 +39,8 @@ As a spectator who participates in commenting online, its hard for me to make se
 <br>
 <a href="#mon1" id="mon"><sup>3</sup></a>: http://streetleague.com/2018/03/06/jagger-eaton-wins-tampa-pro/
 <br>
-<a href="#isx1" id"isx"><sup>4</sup></a>: https://www.isxscoring.com/
+<a href="#isx1" id="isx"><sup>4</sup></a>: https://www.isxscoring.com/
 <br>
 <a href="#dec1" id="dec"><sup>5</sup></a>: https://www.youtube.com/watch?v=6A2FgAnN_QM
+<br>
+<a href="#pro1" id="pro"><sup>6</sup></a>: The names of these things are starting to sound like 
