@@ -53,7 +53,7 @@ Jagger did three reverts and one skip down the crowded quarter. I think I, and t
 
 ### **The beanie (advanced hypocrisy)**
 
-If I learned anything from Life of Ryan<a href="#lor" id="lor1"><sup>7</sup></a>, it's that Red Bull demands that you rep some kind of branded head gear. If you Google Jagger Eaton, he looks young and awkward. But most of all, he's *young*, and if rolling the beanie up over your ears is a cool trend among younger skaters, then I don't blame him for participating in that trend, seeing as he's gotta have some kind Red Bull shit on his head. Your seriously lame if you hate on the way he wears his beanie. If you do, I think you are participating in the broader trend of hypocrisy in skateboarding, because you probably got vibed on for wearing baggie clothes, or skinny jeans, or for cuffing your pants, or whatever. It's a hat. 
+If I learned anything from Life of Ryan<a href="#lor" id="lor1"><sup>7</sup></a>, it's that Red Bull demands that you rep some kind of branded head gear. If you Google Jagger Eaton, he looks young and awkward. But most of all, he's *young*, and if rolling the beanie up over your ears is a cool trend among younger skaters, then I don't blame him for participating in that trend, seeing as he's gotta have some kind Red Bull shit on his head. Your seriously lame if you hate on the way he wears his beanie. If you do, I think you are participating in the broader trend of hypocrisy in skateboarding. You probably got vibed on for wearing baggie clothes, or skinny jeans, or for cuffing your pants, or whatever. It's a hat, chill.
 
 That said, it does look goofy to me.
 
