@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'm a Tampa cynic
+permalink: /jagger/
 ---
 
 <img src="/lisaskates/images/jagger.jpg" alt="jag close">
