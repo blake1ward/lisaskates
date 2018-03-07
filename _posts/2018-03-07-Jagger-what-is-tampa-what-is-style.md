@@ -3,6 +3,9 @@ layout: post
 title: Why tf should we defend Tampa, style?
 ---
 
+<img src="/lisaskates/images/jagger.png" alt="pile close">
+
+
 Jagger Eaton run at Tampa Am
 
 You railing against a 
