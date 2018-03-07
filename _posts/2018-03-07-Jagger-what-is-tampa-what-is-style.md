@@ -23,10 +23,19 @@ Why do I feel that this is a half-truth? I think that Jagger Eaton could have wo
 
 The "old school" thing may have been the case in the past, when skaters like Mike Vallely, Kerry Getz, Andrew Reynolds, etc. won, but if you take a look at the last several years, every winner with the exception of maybe one has the potential to thrive in an ISXTM scoring system: Luan, Nyjah, Shane, T Pud, P Rod, and now Jagger -- and I'm excluding Louie Lopez in 2017 because I don't think he should do these contests (his street parts are a gift). Without a doubt, all of those guys deserve to win a contest because of their ability to skate. But if Tampa is all about getting stoked on a run, even if there are bails, then Decenzo's run with the wallie three<a href="#dec" id="dec1"><sup>5</sup></a> should have won. SLS is going to need fresh faces and new winners at some point. It makes sense that the skater who wins a Monster Energy Pro Open Pass<a href="#pro" id="pro1"><sup>6</sup></a> is going to score (objectively) good marks in an ISXTM system rather than have (subjectively) good style.
 
+Like so many of you, I didn't know who Jagger Eaton was, because I don't primarily watch contest skating. His skating, however, should be celebrated. He's exceptionally good.
 
 ### **Defining style**
 
-As a spectator who participates in commenting online, its hard for me to make sense of what exactly the average viewer wants. In seemingly the same (typed) breath, I'll see someone criticize a skater like Jagger for being either too technical or only doing kickflips. I see a flood of reactions that claims he has no style, that he's a "robotic" skater who relies on going deep into his ready made grab of tricks in order to produce the most technically sound and contest-worthy run. Simultaenously, folks are concerned that the only flip trick he does in his run is a kickflip. I guess the chill frontside flip on the quarter isn't stylish enough because it was flicked from the same side of the board. The same kind of commentor probably extols the virtue of "style," this elusive quality that separates (it doesn't) Tampa from other contests like Street League. Likewise, that commentor probably throws in references to Penny and throws the world "style" and "stoked" around some more to prove their point, like Penny's contest runs aren't more than kickflip variations. 
+As a spectator who participates in commenting online, its hard for me to make sense of what exactly the average skateboarding viewer wants.
+
+I see a flood of reactions that claims he has no style, that he's a "robotic" skater who relies on going deep into his ready made grab of tricks in order to produce the most technically sound and contest-worthy run. In seemingly the same posts or comments, folks are concerned that the only flip trick he does in his run is a kickflip. I guess the chill frontside flip on the quarter isn't stylish enough because it was flicked from the same side of the board, nor the blunt kickflip. The same kind of commentor probably extols the virtue of *style*, this elusive quality that separates Tampa from other contests like Street League (it doesn't, as I claimed in the last section). That commentor probably throws in references to skaters Penny and throws the world "style" and "stoked" around some more to prove their point, like Penny's contest runs aren't more than kickflip variations.
+
+In an attempt to defend Jagger's win, here are the tricks from his winning run. No bails. I'm going to omit the reverts and the hopping off the board to run.
+
+1. Feeble entire flatbar
+2. Noseblunt 180
+
 
 ### **The beanie (advanced hypocrisy)**
 
