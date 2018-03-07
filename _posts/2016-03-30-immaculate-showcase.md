@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immaculate Showcase
+title: First Post
 ---
 
 hi
