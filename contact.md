@@ -4,4 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-File issues at [https://github.com/siawyoung/immaculate/issues](https://github.com/siawyoung/immaculate/issues)!
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
