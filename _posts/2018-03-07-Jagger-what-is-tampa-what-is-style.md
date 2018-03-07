@@ -33,4 +33,4 @@ As a spectator who participates in commenting online, its hard for me to make se
 
 
 
-<a href="sls1" id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
+<a href="#sls1" id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
