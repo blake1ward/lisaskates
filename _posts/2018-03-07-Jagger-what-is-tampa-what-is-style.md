@@ -35,10 +35,25 @@ In an attempt to defend Jagger's win, here are the tricks from his winning run. 
 
 1. Feeble entire flatbar
 2. Noseblunt 180
+3. Switch nosegrind
+4. Switch back tail hubba
+5. Gap 180 nosegrind
+6. Kickflip back lip
+7. Blunt kickflip
+8. Switch feeble
+9. Blunt frontside flip
+10. Frontside flip quarter
+11. Nollie nose slide
 
+On paper, that's a seriously impressive list. I guess one way I define style is board control, and I think that list demonstrates an advanced level of board control. I also think that the environment and occasion work to define style as well, so the contest format necessitates tech skating as it is proven to win. The whole point of the contest was to win. I believe you are deceived if you think the point of the contest was to look cool.
+
+Also, the last time I saw a switch back tail in a long line, Miles Silvas was in an Adidas ad. IIRC, it was the trick that a lot of folks used to defend his line that had similar characteristics to Jagger's (hopping off the board a few times).
+
+Jagger did three reverts and one skip down the crowded quarter. I think I, and the judges, know that he could have used the quarters to set up his next trick better. However, I don't think that the reverts on flat subtract from how impressive his tricks are. It subtracts from his *style* of skating, the aesthetic approach that most of us cherish more than technical ability, but this is a contest, and the contest works to define the parameters of style, it wants tricks, not aesthetics.
 
 ### **The beanie (advanced hypocrisy)**
 
+Red Bull probably makes him wear a beanie. Dude looks young and awkward. He probably wants to be cool. Your a bitch if you hate on the way he wears his beanie. Your no better than the fools who made fun of you in high school for wearing skinny pants or baggie pants or whatever you were wearing when you got heckled and did nothing about it.
 
 <br>
 <hr>
