@@ -1,8 +1,8 @@
 title: Skate Blog
 description: >
   I'm just a MILF who loves to shred
-baseurl: "/immaculate"
-url: "https://github.com/siawyoung/immaculate"
+baseurl: "/lisaskates"
+url: "https://blake1ward.github.com/lisaskates/"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Lisa"
 markdown: kramdown
