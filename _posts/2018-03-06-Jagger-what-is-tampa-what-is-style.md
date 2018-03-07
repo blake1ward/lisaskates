@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jagger: What is Tampa? What is "style"?
+title: Jagger wins. What do Tampa, style mean?
 ---
 
 Jagger Eaton run at Tampa Am
