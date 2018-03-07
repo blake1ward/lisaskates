@@ -31,8 +31,8 @@ As a spectator who participates in commenting online, its hard for me to make se
 ### **The beanie (advanced hypocrisy)**
 
 
-
-
+<br>
+<hr>
 <a href="#sls1" id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
 <br>
 <a href="#slot1" id="slot"><sup>2</sup></a>: http://streetleague.com/2017/12/08/2017-sls-season-recap/
