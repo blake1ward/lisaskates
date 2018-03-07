@@ -15,7 +15,7 @@ Watching the Tampa contests is a nostalgic experience for a lot of folks because
 
 I think the online skate community might be less irked with Jagger Eaton's win if the Tampa Pro series was more forthcoming with the way they judge skating.
 
-Winning Tampa Pro gives you a "Golden Ticket"<a href="#sls"><sup>1</sup></a> to the SLS Nike SB Super Crown World Championship. Last year it was Dave Bachinsky who "secured the North American slot" in the SLS Pro Open by doing well in Tampa. This year, Jagger "earned the Monster Energy Pro Open Pass" to the semi-finals of the 2018 SLS Pro Open, "one step closer to skating his way into SLS."<sup>1</sup>
+Winning Tampa Pro gives you a "Golden Ticket"<a href="#sls" id="sls1"><sup>1</sup></a> to the SLS Nike SB Super Crown World Championship. Last year it was Dave Bachinsky who "secured the North American slot" in the SLS Pro Open by doing well in Tampa. This year, Jagger "earned the Monster Energy Pro Open Pass" to the semi-finals of the 2018 SLS Pro Open, "one step closer to skating his way into SLS."<sup>1</sup>
 
 As most people are aware by now, SLS is judged differently than a contest like Tampa -- it uses the ISXTM Instant Scoring system, whereas Tampa is a best of three runs format. 
 
@@ -33,4 +33,4 @@ As a spectator who participates in commenting online, its hard for me to make se
 
 
 
-<a id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
+<a href="sls1" id="sls"><sup>1</sup></a>: http://streetleague.com/faq/
