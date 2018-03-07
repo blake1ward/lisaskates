@@ -1,8 +1,8 @@
 title: Plank w/ wheels
 description: >
   Site in progress!
-baseurl: "/lisaskates/"
-url: "https://blake1ward.github.io/lisaskates/"
+baseurl: "/lisaskates"
+url: "https://blake1ward.github.io/lisaskates"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Lisa"
 markdown: kramdown
