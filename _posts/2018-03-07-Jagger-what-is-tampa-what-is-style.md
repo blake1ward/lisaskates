@@ -61,7 +61,7 @@ That said, it does look goofy to me.
 <hr>
 Citations
 <br>
-<a href="#sls1" id="sls"><sup>1</sup></a>: <a>http://streetleague.com/faq/</a>
+<a href="#sls1" id="sls"><sup>1</sup></a>: <a src="http://streetleague.com/faq/">http://streetleague.com/faq/</a>
 <br>
 <a href="#slot1" id="slot"><sup>2</sup></a>: <a>http://streetleague.com/2017/12/08/2017-sls-season-recap/</a>
 <br>
