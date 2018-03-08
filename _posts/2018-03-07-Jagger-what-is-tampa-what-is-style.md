@@ -6,7 +6,7 @@ permalink: /jagger/
 
 <img src="/lisaskates/images/jagger.jpg" alt="jag close">
 
-The online skateboarding community is easily manipulated. Tech wizard skaters winning in an "old school" contest format shouldn't be a huge surprise for a fan base that is well aware that the Tampa contest has been affiliated with SLS for a minute.
+I feel the online skateboarding community is easily manipulated by good marketing. Tech wizard skaters winning in an "old school" contest format shouldn't be a huge surprise for a fan base that is well aware that the Tampa contest has been affiliated with SLS for a minute.
 
 ### **Burn your idols**
 
