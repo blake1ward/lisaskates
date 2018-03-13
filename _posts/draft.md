@@ -9,7 +9,7 @@ The wheel buying process, though, is sick. They have immense fondle value, even 
 
 ### **Jon Dickson**
 
-<img src="/lisaskates/images/1/jon.png>
+<img src="/lisaskates/images/1/jon.png">
 
 The first wheel is the only one that I don't totally get. I think the Jeffrey Dahmer theme may be because of two reasons:
 1. Jon Dickson enjoyed The recent Marc Meyes film, My Friend Dahmer
