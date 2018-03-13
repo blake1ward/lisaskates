@@ -48,9 +48,17 @@ No extraneous details about the person symbolized by the art on the wheel. No fu
 
 ### **Erick Winkowski**
 
+<img src="/lisaskates/images/1/erick.png">
+
+<img src="/lisaskates/images/1/9.png">
+
 ### **Figgy**
 
+<img src="/lisaskates/images/1/fig.png">
+
 A lot of his past wheels are purple/green. Does Figgy have a secret lust for the Joker?
+
+<img src="/lisaskates/images/1/3.png">
 
 ### **Jason Jesse**
 
