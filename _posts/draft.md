@@ -42,13 +42,28 @@ the one with andrew reynold's daughter
 
 <img src="/lisaskates/images/1/ben.png">
 
-No extraneous details about the person. No funky, insane style, the simple Thrasher hat. The recognizable glasses. Sunny, good vibes.
+No extraneous details about the person. It's got the simple Thrasher hat, the recognizable glasses. The sunny, California vibe that I don't understand because I've never been there. I think the mellow energy depicted on the wheel is in contrast with the way Ben Raybourn skates. 
+
+https://www.youtube.com/watch?v=ZlvKkovx9Gc
+
+The behavior in this video doesn't evoke lackadaisacal, tipsy skating, cruising spots at sunset. I like this kind of contrast, and I think it makes up for the lack of imagination on this wheel as opposed to some of the others. The warm looking art compared to the potentially bone jarring stunts motivates me to want to try stuff. 
 
 <img src="/lisaskates/images/1/12.png">
+
+I think the bone jarring aspect is just my perception of what I see in these videos. To him, it's just cruising. It's boosts my confidence, as a skater, to see confidence on display, helping to purge bad ideas when I'm visualizing a trick of my own.
+
 
 ### **Erick Winkowski**
 
 <img src="/lisaskates/images/1/erick.png">
+
+Trippy, liquidy clockwise movement. Some warm, ocean imagery. And mushrooms, which I guess are the big marketing draw for these wheels. I understand that folks identify, to a degree, with the drugs they take, and merchandising that is probably a profitable idea.
+
+Mushrooms:
+
+Other:
+
+
 
 <img src="/lisaskates/images/1/9.png">
 
