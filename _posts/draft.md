@@ -59,11 +59,15 @@ I think the bone jarring aspect is just my perception of what I see in these vid
 
 Trippy, liquidy clockwise movement. Some warm, ocean imagery. And mushrooms, which I guess are the big marketing draw for these wheels. I understand that folks identify, to a degree, with the drugs they take, and merchandising that is probably a profitable idea.
 
+Here are some other artists that have found success with merchandising their drug of choice.
+
 Mushrooms:
 
 Other:
 
+Drugs go with skateboarding. I wouldn't be the first person to recognize that. I like the psychoactive experience of mushrooms. But tripping is somewhat of a private, special experience, and I think selling something to me based on the *idea* of that to me is kinda weird. It takes something away from the intensity of the experience felt.
 
+I am a hypocrite, though, because I am sold on other wheel art because of the idea of the felt experience that I identify with on the wheels. I might have somewhat of a post-traumautic response to drug imagery in marketing once I realized, as a younger person, that the Grateful Dead all became exceptionally wealthy. 
 
 <img src="/lisaskates/images/1/9.png">
 
