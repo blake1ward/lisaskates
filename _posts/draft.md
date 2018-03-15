@@ -75,16 +75,27 @@ I am a hypocrite, though, because I am sold on other wheel art because of the id
 
 <img src="/lisaskates/images/1/fig.png">
 
-A lot of his past wheels are purple/green. Does Figgy have a secret lust for the Joker?
+Psychedelic rock, guitar pick included. Different colored wheels is fun. The art on the wheel accurately depicts the primal urge to listen to some classic rock minded riffing, drink some beers, and try a stunt. 
+
+https://www.youtube.com/watch?v=DKQGC5kowSE
+
+I have to say I'm more interested in Figgy's previous wheels in OJ's catalog. A lot of them are purple/green. Does Figgy lust for the Joker?
 
 <img src="/lisaskates/images/1/3.png">
+
+The psychedelic rock imagery better suits Figgy and his personality. You can tell he is happiest when he's jamming. 
+
+However, I don't want to see him go way the way of this Zeppelin-revival guitar rock outfit, Black Pussy, with their insufferably half baked analysis of social politics and the need for more free speech in rock-n-roll. 
 
 ### **Jason Jesse**
 
 "If I was a Cop and Didn't Skate"
-This one is pretty straightforward and indicative of Jason Jesse's high T style. Take a look at some of the beanie styles. One would not stack layers on top of one's head without being entirely sure of themselves.
 
-His pro model wheels tend to slide easily to the edgy side. Last season’s wheel featured a dog with a gun to its head, and before that, Jesus exhaling a big hit. 
+The sentiment in this one is pretty straightforward. Jason Jesse's wheels tend to slide easily to the edgy side. I guess someone has to keep skateboarding from not trying hard enough in the vanguard of counter culture.
+
+Case in point:
+
+
 
 ### **Carsone Lee**
 
