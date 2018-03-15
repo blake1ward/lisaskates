@@ -42,7 +42,7 @@ the one with andrew reynold's daughter
 
 <img src="/lisaskates/images/1/ben.png">
 
-No extraneous details about the person symbolized by the art on the wheel. No funky, insane style, the simple Thrasher hat. The recognizable glasses. Sunny, good vibes.
+No extraneous details about the person. No funky, insane style, the simple Thrasher hat. The recognizable glasses. Sunny, good vibes.
 
 <img src="/lisaskates/images/1/12.png">
 
