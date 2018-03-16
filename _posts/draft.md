@@ -19,7 +19,7 @@ The first wheel is the only one that I don't totally get. I think the Jeffrey Da
 
 The wheel features caricatures of Dahmer and Glenn Rodgers (Ed Glen) with fresh blood on their mouths from a tasty meal. The front is black and the art is in reverse. The rest of the wheel is a marbling of fleshy tone. There's a nice touch in the ad with the wheels served up on styrofoam plate like their fresh from the butcher. The wheels are served, and look like, four pieces of meat. These wheels demonstrate what I mean by fondle value. I want to buy these just so I can touch them. They are like little filet mignons.
 
-<img src="/lisaskates/images/1/2.png">
+<img src="/lisaskates/images/jon1.jpg">
 
 Unlike Dahmer, Glen Rogers is still alive on Death Row. The Casanova Killer filed an appeal in April 2005 that is still pending, for prosecutorial misconduct. He's still out there in California. 
 
@@ -29,7 +29,7 @@ Unlike Dahmer, Glen Rogers is still alive on Death Row. The Casanova Killer file
 
 The "Cat and Mouse" have a playful yet badass aesthetic that her style of skating does. I think it is because of all the smiling. When I skate, I am fighting with the board to make it do what I want. Anytime I see myself skating on film, I make variations of this awkward kind of grimace. Skaters that look excited to be skating are really fun to watch. It makes you stoked to skate. The happy mouse flipping the bird is emblematic of the feeling I got watching skating before I had done it myself. It's being playfully belligerent. Even the cat doesn't seem to care. It's too bad you can't see the mouse's hand on the wheel.
 
-<img src="/lisaskates/images/1/14.png">
+<img src="/lisaskates/images/nora1.jpg">
 
 Need some videos of nora being cool
 
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=ZlvKkovx9Gc
 
 The behavior in this video doesn't evoke lackadaisacal, tipsy skating, cruising spots at sunset. I like this kind of contrast, and I think it makes up for the lack of imagination on this wheel as opposed to some of the others. The warm looking art compared to the potentially bone jarring stunts motivates me to want to try stuff. 
 
-<img src="/lisaskates/images/1/12.png">
+<img src="/lisaskates/images/ben.jpg">
 
 I think the bone jarring aspect is just my perception of what I see in these videos. To him, it's just cruising. It's boosts my confidence, as a skater, to see confidence on display, helping to purge bad ideas when I'm visualizing a trick of my own.
 
@@ -69,11 +69,11 @@ Drugs go with skateboarding. I wouldn't be the first person to recognize that. I
 
 I am a hypocrite, though, because I am sold on other wheel art because of the idea of the felt experience that I identify with on the wheels. I might have somewhat of a post-traumautic response to drug imagery in marketing once I realized, as a younger person, that the Grateful Dead all became exceptionally wealthy. 
 
-<img src="/lisaskates/images/1/9.png">
+<img src="/lisaskates/images/wink.jpg" alt="winkowski">
 
 ### **Figgy**
 
-<img src="/lisaskates/images/1/fig.png">
+<img src="/lisaskates/images/fig.jpg" alt="fig">
 
 Psychedelic rock, guitar pick included. Different colored wheels is fun. The art on the wheel accurately depicts the primal urge to listen to some classic rock minded riffing, drink some beers, and try a stunt. 
 
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=DKQGC5kowSE
 
 I have to say I'm more interested in Figgy's previous wheels in OJ's catalog. A lot of them are purple/green. Does Figgy lust for the Joker?
 
-<img src="/lisaskates/images/1/3.png">
+<img src="/lisaskates/images/figgy1.jpg" alt="figgy">
 
 The psychedelic rock imagery better suits Figgy and his personality. You can tell he is happiest when he's jamming. 
 
@@ -91,6 +91,8 @@ However, I don't want to see him go way the way of this Zeppelin-revival guitar 
 
 "If I was a Cop and Didn't Skate"
 
+<img src="/lisaskates/images/jesse.jpg" alt="jesse">
+
 The sentiment in this one is pretty straightforward. Jason Jesse's wheels tend to slide easily to the edgy side. I guess someone has to keep skateboarding from not trying hard enough in the vanguard of counter culture.
 
 Case in point:
@@ -99,10 +101,14 @@ Case in point:
 
 ### **Carsone Lee**
 
+<img src="/lisaskates/images/lee.jpg" alt="carson">
+
 https://www.linkedin.com/in/carsonmlee/ 
 
 The team manager/videographer/video editor for Enjoi for the last two years. Carson Lee has an impressive resume as a freelance videographer/video editor, and was a cinematographer for Transworld for several years. 
 
 A caricature of the filmer flying blissfully through the clouds on Falcor’s back, lifting the camera in exaltation. 
+
+<img src="/lisaskates/images/carson1.jpg" alt="carson">
 
 Good on OJ. If you’re going to use someone’s likeness to sell your product, then to use Carson Lee’s is giving credit where it is due. Filmers skate as much as the skaters being filmed. 
