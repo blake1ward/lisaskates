@@ -19,17 +19,17 @@ The first wheel is the only one that I don't totally get. I think the Jeffrey Da
 
 The wheel features caricatures of Dahmer and Glenn Rodgers (Ed Glen) with fresh blood on their mouths from a tasty meal. The front is black and the art is in reverse. The rest of the wheel is a marbling of fleshy tone. There's a nice touch in the ad with the wheels served up on styrofoam plate like their fresh from the butcher. The wheels are served, and look like, four pieces of meat. These wheels demonstrate what I mean by fondle value. I want to buy these just so I can touch them. They are like little filet mignons.
 
-<img src="/lisaskates/images/jon1.jpg">
+<img src="/lisaskates/images/jon1.jpg" alt="jon">
 
 Unlike Dahmer, Glen Rogers is still alive on Death Row. The Casanova Killer filed an appeal in April 2005 that is still pending, for prosecutorial misconduct. He's still out there in California. 
 
 ### **Nora Vasconcellos**
 
-<img src="/lisaskates/images/nora.jpg">
+<img src="/lisaskates/images/nora.jpg" alt="nora">
 
 The "Cat and Mouse" have a playful yet badass aesthetic that her style of skating does. I think it is because of all the smiling. When I skate, I am fighting with the board to make it do what I want. Anytime I see myself skating on film, I make variations of this awkward kind of grimace. Skaters that look excited to be skating are really fun to watch. It makes you stoked to skate. The happy mouse flipping the bird is emblematic of the feeling I got watching skating before I had done it myself. It's being playfully belligerent. Even the cat doesn't seem to care. It's too bad you can't see the mouse's hand on the wheel.
 
-<img src="/lisaskates/images/nora1.jpg">
+<img src="/lisaskates/images/nora1.jpg" alt="nora">
 
 Need some videos of nora being cool
 
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=ZlvKkovx9Gc
 
 The behavior in this video doesn't evoke lackadaisacal, tipsy skating, cruising spots at sunset. I like this kind of contrast, and I think it makes up for the lack of imagination on this wheel as opposed to some of the others. The warm looking art compared to the potentially bone jarring stunts motivates me to want to try stuff. 
 
-<img src="/lisaskates/images/ben.jpg">
+<img src="/lisaskates/images/ben.jpg" alt="ben">
 
 I think the bone jarring aspect is just my perception of what I see in these videos. To him, it's just cruising. It's boosts my confidence, as a skater, to see confidence on display, helping to purge bad ideas when I'm visualizing a trick of my own.
 
